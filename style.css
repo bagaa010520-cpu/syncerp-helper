@@ -1,0 +1,56 @@
+body {
+    margin: 0;
+}
+
+.wrapper {
+    display: flex;
+    height: 100vh; /* дэлгэц дүүргэнэ */
+}
+
+.sidebar {
+    width: 280px;
+    background: #e9e9e9;
+    border-right: 1px solid #bfbfbf;
+    padding: 10px;
+    overflow-y: auto;
+    height: 100vh; /* ЭНЭ ЧУХАЛ */
+}
+
+.content {
+    flex: 1;
+    padding: 20px;
+    overflow-y: auto;
+}
+
+.section {
+  cursor: pointer;
+  font-weight: 'Roboto';
+  margin-top: 10px;
+}
+
+.section:hover {
+  color: white;
+}
+
+.menu {
+  display: none;
+  margin-left: 15px;
+}
+
+.menu div {
+  padding: 3px 0;
+  font-size: 14px;
+}
+
+/* Content */
+
+.content {
+  flex: 1;
+  padding: 25px;
+  background: white;
+}
+
+.content h2 {
+  margin-top: 0;
+  font-weight: 'Roboto';
+}

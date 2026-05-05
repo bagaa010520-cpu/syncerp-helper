@@ -1,0 +1,937 @@
+[
+    {
+        "id": "",
+        "class": "",
+        "key": "Introduction",
+        "title": "Ерөнхий танилцуулга",
+        "children": []
+    },
+    {
+        "id": "",
+        "class": "",
+        "key": "hr",
+        "title": "Хүний нөөц",
+        "children": [
+            {
+                "id": "",
+                "class": "",
+                "key": "HrGeneralInfo",
+                "title": "Ерөнхий мэдээлэл",
+                "children": []
+            },
+            {
+                "id": "",
+                "class": "",
+                "key": "HrSearchAndEditEmp",
+                "title": "Хэрхэн ажилтан хайх болон засварлах вэ?",
+                "children": []
+            },
+            {
+                "id": "",
+                "class": "",
+                "key": "HrAddEmployee",
+                "title": "Хэрхэн ажилтан нэмэх вэ?",
+                "children": []
+            },
+            {
+                "id": "",
+                "class": "",
+                "key": "HrInactiveEmp",
+                "title": "Идэвхгүй ажилтнууд",
+                "children": []
+            },
+            {
+                "id": "",
+                "class": "",
+                "key": "Os",
+                "title": "Байгууллагын бүтэц",
+                "children": [
+                    {
+                        "id": "",
+                        "class": "",
+                        "key": "HrUnitRegist",
+                        "title": "Нэгжийн бүртгэл",
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "class": "",
+                        "key": "HrPosit",
+                        "title": "Албан тушаал",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "class": "",
+                "key": "HrInformatVerificat",
+                "title": "Мэдээлэл баталгаажуулалт",
+                "children": []
+            },
+            {
+                "id": "",
+                "class": "",
+                "key": "HrRegistrat",
+                "title": "ХН-н бүртгэл",
+                "children": [
+                    {
+                        "id": "",
+                        "class": "",
+                        "key": "HrFamily",
+                        "title": "Гэр бүл",
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "class": "",
+                        "key": "HrEducat",
+                        "title": "Боловсрол",
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "class": "",
+                        "key": "HrContact",
+                        "title": "Холбоо барих",
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "class": "",
+                        "key": "HrMeritAward",
+                        "title": "Гавьяа, шагнал",
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "class": "",
+                        "key": "HrLanguageSkills",
+                        "title": "Хэлний мэдлэг",
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "class": "",
+                        "key": "HrLanguageTest",
+                        "title": "Хэлний шалгалт",
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "class": "",
+                        "key": "HrSkill",
+                        "title": "Ур чадвар",
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "class": "",
+                        "key": "HrProfessionalTraining",
+                        "title": "Мэргэжлийн бэлтгэл",
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "class": "",
+                        "key": "HrSalary",
+                        "title": "Цалин хөлс",
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "class": "",
+                        "key": "HrAdditSupply",
+                        "title": "Нэмэгдэл хангамж",
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "class": "",
+                        "key": "HrViolatResponsibility",
+                        "title": "Зөрчил, хариуцлага",
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "class": "",
+                        "key": "HrHealthCheckUp",
+                        "title": "Эрүүл мэндийн үзлэг",
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "class": "",
+                        "key": "HrEmpDocuments",
+                        "title": "Ажилтны бичиг баримт",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "class": "",
+                "key": "HrFileDirectory",
+                "title": "Файлын сан",
+                "children": []
+            },
+            {
+                "id": "",
+                "class": "",
+                "key": "HrJobDescript",
+                "title": "Ажлын байрны тодорхойлолт",
+                "children": []
+            },
+            {
+                "id": "",
+                "class": "",
+                "key": "HrAlternateDaysOffCycle",
+                "title": "Ээлжийн амралтын хоног, цикл",
+                "children": []
+            },
+            {
+                "id": "",
+                "class": "",
+                "key": "HrR",
+                "title": "Тайлан мэдээ",
+                "children": [
+                    {
+                        "id": "",
+                        "class": "",
+                        "key": "HrEmpReport",
+                        "title": "Ажилтны тайлан",
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "class": "",
+                        "key": "HrEmpIncreaseReport",
+                        "title": "Ажилтны нэмэгдлийн тайлан",
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "class": "",
+                        "key": "HrEvaluatCard",
+                        "title": "Үнэлгээний карт",
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "class": "",
+                        "key": "HrOtherReports",
+                        "title": "Бусад тайлангууд",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "class": "",
+                "key": "Gs",
+                "title": "Ерөнхий тохиргоо",
+                "children": [
+                    {
+                        "id": "",
+                        "class": "",
+                        "key": "HrGeneralConfigurat",
+                        "title": "Ерөнхий тохиргоо",
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "class": "",
+                        "key": "HrGeneralTypeRegist",
+                        "title": "Ерөнхий төрлийн бүртгэл",
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "class": "",
+                        "key": "HrGeneralRegist",
+                        "title": "Ерөнхий бүртгэл",
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "class": "",
+                        "key": "HrSchoolType",
+                        "title": "Сургуулийн төрөл",
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "class": "",
+                        "key": "HrSchoolList",
+                        "title": "Сургуулийн жагсаалт",
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "class": "",
+                        "key": "HrFamilyMembers",
+                        "title": "Гэр бүлийн гишүүд",
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "class": "",
+                        "key": "HrMaritalStatus",
+                        "title": "Гэрлэлтийн байдал",
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "class": "",
+                        "key": "HrListOfSkills",
+                        "title": "Ур чадварийн жагсаалт",
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "class": "",
+                        "key": "HrProfessionalList",
+                        "title": "Мэргэжлийн жагсаалт",
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "class": "",
+                        "key": "HrEducatList",
+                        "title": "Боловсролын жагсаалт",
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "class": "",
+                        "key": "HrBiologyDocumentRegist",
+                        "title": "Биологи / Бичиг баримтын бүртгэл",
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "class": "",
+                        "key": "HrTypeOfHealth",
+                        "title": "Эрүүл мэндийн төрөл",
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "class": "",
+                        "key": "HrComputerListOfQualificat",
+                        "title": "Компьютер / Мэргэшлийн жагсаалт",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "",
+        "class": "",
+        "key": "Tr",
+        "title": "Цаг бүртгэл",
+        "children": [
+            {
+                "id": "",
+                "class": "",
+                "key": "TrGeneralInfo",
+                "title": "Ерөнхий мэдээлэл",
+                "children": []
+            },
+            {
+                "id": "",
+                "class": "",
+                "key": "TrEnterAttendanceInfo",
+                "title": "Ирц бүртгэлийн мэдээлэл хэрхэн оруулах вэ?",
+                "children": []
+            },
+            {
+                "id": "",
+                "class": "",
+                "key": "TrEditAndChangeEmpAttendanceRecords",
+                "title": "Ажилтны ирц бүртгэлийг хэрхэн засаж, өөрчлөх вэ?",
+                "children": []
+            },
+            {
+                "id": "",
+                "class": "",
+                "key": "Armaa",
+                "title": "Ирц бүртгэх, хянах, батлах",
+                "children": [
+                    {
+                        "id": "",
+                        "class": "",
+                        "key": "TrAttendanceRegistMonitorApproval",
+                        "title": "Ирц бүртгэх, хянах, батлах",
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "class": "",
+                        "key": "TrDownloadAttendanceReports",
+                        "title": "Ирцийн мэдээ татах",
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "class": "",
+                        "key": "TrApproveCancelAttendanceRecords",
+                        "title": "Ирц бүртгэлийг батлах, цуцлах",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "class": "",
+                "key": "Dm",
+                "title": "Төхөөрөмжийн удирдлага",
+                "children": [
+                    {
+                        "id": "",
+                        "class": "",
+                        "key": "TrDeviceManagement",
+                        "title": "Төхөөрөмжийн удирдлага",
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "class": "",
+                        "key": "TrDeviceRegist",
+                        "title": "Төхөөрөмжийн бүртгэл",
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "class": "",
+                        "key": "TrDeviceLink",
+                        "title": "Төхөөрөмжийн холбоос",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "class": "",
+                "key": "TrReportNews",
+                "title": "Тайлан мэдээ",
+                "children": []
+            },
+            {
+                "id": "",
+                "class": "",
+                "key": "Set",
+                "title": "Тохиргоо",
+                "children": [
+                    {
+                        "id": "",
+                        "class": "",
+                        "key": "TrSettings",
+                        "title": "Тохиргоо",
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "class": "",
+                        "key": "TrAttendanceRegistCycle",
+                        "title": "Ирц бүртгэлийн мөчлөг",
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "class": "",
+                        "key": "TrEmpTimeTable",
+                        "title": "Ажилтны цагийн хуваарь",
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "class": "",
+                        "key": "TrTimeTable",
+                        "title": "Цагийн хуваарь",
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "class": "",
+                        "key": "TrManagers",
+                        "title": "Менежерүүд",
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "class": "",
+                        "key": "TrTypeOfWorkdays",
+                        "title": "Ажлын өдрийн төрлүүд",
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "class": "",
+                        "key": "TrRequestTypes",
+                        "title": "Хүсэлтийн төрлүүд",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "",
+        "class": "",
+        "key": "Sc",
+        "title": "Цалин тооцоолол",
+        "children": [
+            {
+                "id": "",
+                "class": "",
+                "key": "ScGeneralInfo",
+                "title": "Ерөнхий мэдээлэл",
+                "children": []
+            },
+            {
+                "id": "",
+                "class": "",
+                "key": "ScSelectreateSalaryBenefit",
+                "title": "Цалингийн олговор сонгох, үүсгэх",
+                "children": []
+            },
+            {
+                "id": "",
+                "class": "",
+                "key": "ScSalaryFigure",
+                "title": "Цалин тооцоолол",
+                "children": []
+            },
+            {
+                "id": "",
+                "class": "",
+                "key": "ScSalaryIndicator",
+                "title": "Цалингийн үзүүлэлт",
+                "children": []
+            },
+            {
+                "id": "",
+                "class": "",
+                "key": "ScReportNews",
+                "title": "Тайлан мэдээ",
+                "children": []
+            },
+            {
+                "id": "",
+                "class": "",
+                "key": "ScSettings",
+                "title": "Тохиргоо",
+                "children": []
+            }
+        ]
+    },
+    {
+        "id": "",
+        "class": "",
+        "key": "Ua",
+        "title": "Хэрэглэгчийн админ",
+        "children": [
+            {
+                "id": "",
+                "class": "",
+                "key": "UaGeneralInfo",
+                "title": "Ерөнхий мэдээлэл",
+                "children": []
+            },
+            {
+                "id": "",
+                "class": "",
+                "key": "UaModuleAct",
+                "title": "Модулийн хийх үйлдлүүд",
+                "children": []
+            },
+            {
+                "id": "",
+                "class": "",
+                "key": "UaViewAndEditGeneralOrganizatInformat",
+                "title": "Байгууллагын ерөнхий мэдээлэл харах засварлах",
+                "children": []
+            },
+            {
+                "id": "",
+                "class": "",
+                "key": "UaUserManagement",
+                "title": "Хэрэглэгчийн удирдлага",
+                "children": []
+            },
+            {
+                "id": "",
+                "class": "",
+                "key": "UaRightsGroupManagement",
+                "title": "Эрхийн бүлгийн удирдлага",
+                "children": []
+            },
+            {
+                "id": "",
+                "class": "",
+                "key": "UaPasswordPolicy",
+                "title": "Password policy",
+                "children": []
+            },
+            {
+                "id": "",
+                "class": "",
+                "key": "UaViewChangeLog",
+                "title": "Өөрчлөлтийн лог харах",
+                "children": []
+            },
+            {
+                "id": "",
+                "class": "",
+                "key": "UaViewAccessLog",
+                "title": "Хандалтын лог харах",
+                "children": []
+            },
+            {
+                "id": "",
+                "class": "",
+                "key": "UaManageBanner",
+                "title": "Баннер удирдах",
+                "children": []
+            }
+        ]
+    },
+    {
+        "id": "",
+        "class": "",
+        "key": "Mc",
+        "title": "Миний булан",
+        "children": [
+            {
+                "id": "",
+                "class": "",
+                "key": "McIntroduct",
+                "title": "Танилцуулга",
+                "children": []
+            },
+            {
+                "id": "",
+                "class": "",
+                "key": "McNewsAndInformat",
+                "title": "Мэдээ мэдээлэл",
+                "children": []
+            },
+            {
+                "id": "",
+                "class": "",
+                "key": "McMyProfile",
+                "title": "Миний профайл",
+                "children": []
+            },
+            {
+                "id": "",
+                "class": "",
+                "key": "McEmpPlan",
+                "title": "Ажилтны төлөвлөгөө",
+                "children": []
+            },
+            {
+                "id": "",
+                "class": "",
+                "key": "McTimeRegist",
+                "title": "Цаг бүртгэл",
+                "children": []
+            },
+            {
+                "id": "",
+                "class": "",
+                "key": "McSalaryInformat",
+                "title": "Цалингийн мэдээлэл",
+                "children": []
+            },
+            {
+                "id": "",
+                "class": "",
+                "key": "McVacatInformat",
+                "title": "Амралтын мэдээлэл",
+                "children": []
+            },
+            {
+                "id": "",
+                "class": "",
+                "key": "McPerformanceEvaluat",
+                "title": "Гүйцэтгэлийн үнэлгээ",
+                "children": []
+            },
+            {
+                "id": "",
+                "class": "",
+                "key": "McTrainingAndDevelopment",
+                "title": "Сургалт хөгжил",
+                "children": []
+            },
+            {
+                "id": "",
+                "class": "",
+                "key": "McAssetRegistrat",
+                "title": "Хөрөнгийн бүртгэл",
+                "children": []
+            },
+            {
+                "id": "",
+                "class": "",
+                "key": "McEmpList",
+                "title": "Ажилтны жагсаалт",
+                "children": []
+            },
+            {
+                "id": "",
+                "class": "",
+                "key": "McRegulatInstruct",
+                "title": "Журам, заавар",
+                "children": []
+            }
+        ]
+    },
+    {
+        "id": "",
+        "class": "",
+        "key": "Sr",
+        "title": "Системийн хүсэлт",
+        "children": [
+            {
+                "id": "",
+                "class": "",
+                "key": "SrIntroduct",
+                "title": "Танилцуулга",
+                "children": []
+            },
+            {
+                "id": "",
+                "class": "",
+                "key": "CByMe",
+                "title": "Миний үүсгэсэн",
+                "children": [
+                    {
+                        "id": "",
+                        "class": "",
+                        "key": "SrCreatedByMe",
+                        "title": "Миний үүсгэсэн",
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "class": "",
+                        "key": "SrNewReqCreated",
+                        "title": "Хүсэлт шинээр үүсгэх",
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "class": "",
+                        "key": "SrReqDetails",
+                        "title": "Хүсэлтийн дэлгэрэнгүй",
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "class": "",
+                        "key": "SrActAvaibleFromTheReqDetailsWindow",
+                        "title": "Хүсэлтийн дэлгэрэнгүй цонхноос хийх боломжтой үйлдлүүд",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "class": "",
+                "key": "SrCameToMe",
+                "title": "Надад ирсэн",
+                "children": []
+            },
+            {
+                "id": "",
+                "class": "",
+                "key": "SrWatching",
+                "title": "Ажиглаж байгаа",
+                "children": []
+            },
+            {
+                "id": "",
+                "class": "",
+                "key": "SrReqReport",
+                "title": "Хүсэлтийн тайлан",
+                "children": []
+            }
+        ]
+    },
+    {
+        "id": "",
+        "class": "",
+        "key": "Dmt",
+        "title": "Төхөөрөмжийн удирдлага",
+        "children": [
+            {
+                "id": "",
+                "class": "",
+                "key": "DmGeneralInfo",
+                "title": "Ерөнхий мэдээлэл",
+                "children": []
+            },
+            {
+                "id": "",
+                "class": "",
+                "key": "DmProductList",
+                "title": "Бүтээгдэхүүний жагсаалт",
+                "children": []
+            },
+             {
+                "id": "",
+                "class": "",
+                "key": "DmAdditExplanat",
+                "title": "Нэмэлт тайлбар",
+                "children": []
+            },
+            {
+                "id": "",
+                "class": "",
+                "key": "Cl",
+                "title": "Хөрөнгийн жагсаалт",
+                "children": [
+                    {
+                        "id": "",
+                        "class": "",
+                        "key": "DmAssetList",
+                        "title": "Хөрөнгийн жагсаалт",
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "class": "",
+                        "key": "DmTransferOfFunds",
+                        "title": "Хөрөнгө шилжүүлэх",
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "class": "",
+                        "key": "DmSpendMoney",
+                        "title": "Хөрөнгө зарлагадах /актлах/",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "class": "",
+                "key": "DmAssetWriteOff",
+                "title": "Акталсан хөрөнгө",
+                "children": []
+            },
+            {
+                "id": "",
+                "class": "",
+                "key": "DmWearOut",
+                "title": "Элэгдүүлэх",
+                "children": []
+            },
+            {
+                "id": "",
+                "class": "",
+                "key": "DmTransact",
+                "title": "Гүйлгээ",
+                "children": []
+            },
+            {
+                "id": "",
+                "class": "",
+                "key": "DmCensus",
+                "title": "Тооллого",
+                "children": []
+            },
+            {
+                "id": "",
+                "class": "",
+                "key": "DmReport",
+                "title": "Тайлан",
+                "children": []
+            },
+            {
+                "id": "",
+                "class": "",
+                "key": "DmSet",
+                "title": "Тохиргоо",
+                "children": [
+                    {
+                        "id": "",
+                        "class": "",
+                        "key": "DmSettigs",
+                        "title": "Тохиргоо",
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "class": "",
+                        "key": "DmLocat",
+                        "title": "Байршил",
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "class": "",
+                        "key": "DmClassificat",
+                        "title": "Ангилал",
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "class": "",
+                        "key": "DmType",
+                        "title": "Төрөл",
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "class": "",
+                        "key": "DmReasonAssetWriteOff",
+                        "title": "Актлах шалтгаан",
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "class": "",
+                        "key": "DmGeneralSettings",
+                        "title": "Ерөнхий тохиргоо",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "",
+        "class": "",
+        "key": "Dmt",
+        "title": "Хоолны менежмент",
+        "children": [
+            {
+                "id": "",
+                "class": "",
+                "key": "DmGeneralInfo",
+                "title": "Бүртгэл",
+                "children": []
+            },
+            {
+                "id": "",
+                "class": "",
+                "key": "DmProductList",
+                "title": "Үндсэн",
+                "children": []
+            },
+             {
+                "id": "",
+                "class": "",
+                "key": "DmAdditExplanat",
+                "title": "Тайлан мэдээ",
+                "children": []
+            }
+        ]
+    }
+]
