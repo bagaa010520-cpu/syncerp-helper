@@ -908,29 +908,116 @@
     {
         "id": "",
         "class": "",
-        "key": "Dmt",
+        "key": "Fm",
         "title": "Хоолны менежмент",
         "children": [
             {
                 "id": "",
                 "class": "",
-                "key": "DmGeneralInfo",
+                "key": "FmR",
                 "title": "Бүртгэл",
-                "children": []
+                "children": [
+                    {
+                        "id": "",
+                        "class": "",
+                        "key": "FmFoodRegistrat",
+                        "title": "Хоолны бүртгэл",
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "class": "",
+                        "key": "FmFoodCategory",
+                        "title": "Хоолны ангилал",
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "class": "",
+                        "key": "FmAmountOfFood",
+                        "title": "Хоолны хэмжээ",
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "class": "",
+                        "key": "FmFoodShift",
+                        "title": "Хоолны ээлж",
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "class": "",
+                        "key": "FmRestaurantRegistrat",
+                        "title": "Рестораны бүртгэл",
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "class": "",
+                        "key": "FmEmpRegistrat",
+                        "title": "Ажилтны бүртгэл",
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "class": "",
+                        "key": "FmGuestRegistrat",
+                        "title": "Зочны бүртгэл",
+                        "children": []
+                    }
+                ]
             },
             {
                 "id": "",
                 "class": "",
-                "key": "DmProductList",
+                "key": "FmB",
                 "title": "Үндсэн",
-                "children": []
+                "children": [
+                    {
+                        "id": "",
+                        "class": "",
+                        "key": "FmMenuPlanning",
+                        "title": "Цэс төлөвлөлт",
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "class": "",
+                        "key": "FmStartCheckout",
+                        "title": "Касс эхлүүлэх",
+                        "children": []
+                    }
+                ]
             },
              {
                 "id": "",
                 "class": "",
-                "key": "DmAdditExplanat",
+                "key": "FmRN",
                 "title": "Тайлан мэдээ",
-                "children": []
+                "children": [
+                    {
+                        "id": "",
+                        "class": "",
+                        "key": "FmRegistratLog",
+                        "title": "Бүртгэлийн лог",
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "class": "",
+                        "key": "FmReports",
+                        "title": "Тайлангууд",
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "class": "",
+                        "key": "FmMaterialConsumption",
+                        "title": "Материал хэрэглээ",
+                        "children": []
+                    }
+                ]
             }
         ]
     }
