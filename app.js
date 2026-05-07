@@ -32,7 +32,7 @@ async function loadSidebar() {
     const sidebarDiv = document.getElementById('sidebar');
     try {
 
-        const response = await fetch('/constants/menu.json');
+        const response = await fetch('./constants/menu.json');
         const menuList = await response.json();
 
         let html = ``;
@@ -65,7 +65,7 @@ async function loadPage(page) {
     const content = document.getElementById('content');
 
     try {
-        const response = await fetch(`/pages/${page}.html`);
+        const response = await fetch(`./pages/${page}.html`);
         if (!response.ok) throw new Error('Хуудас олдсонгүй');
 
         const html = await response.text();
